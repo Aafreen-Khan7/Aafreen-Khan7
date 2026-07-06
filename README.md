@@ -151,7 +151,7 @@ Open To:
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/aafreen-khan-170562314">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -166,8 +166,6 @@ Open To:
 </div> 
 
 ---
-
-## Footer
 
 <div align="center">
 
